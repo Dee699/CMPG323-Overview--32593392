@@ -1,7 +1,7 @@
 # CMPG323-Overview-32593392
 ## CMPG 323 Project Repositories
 1. **Project 1: Agile (Scrum) Implementation**
-   - Repository: [CMPG 323 Project 1 - Agile Scrum](link_to_repository_1)
+   - Repository: [CMPG 323 Project 1 - Agile Scrum][(https://github.com/Dee699/CMPG323-Overview--32593392)]
 
 2. **Project 2: Source Control**
    - Repository: [CMPG 323 Project 2 - Source Control](link_to_repository_2)
