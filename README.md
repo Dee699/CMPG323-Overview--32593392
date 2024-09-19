@@ -3,7 +3,7 @@
 
 This repository will contain the overall project structure and initial setup for the CMPG 323 module.
 
-(https://github.com/Dee699/CMPG323-Overview--32593392)
+https://github.com/Dee699/CMPG323-Overview--32593392
 
 
 **Project 2: API Basics & Security - 32593392**
