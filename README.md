@@ -4,14 +4,14 @@
 
    This repository will contain the overall project structure and initial setup for the CMPG 323 module.
      
-     Link: https://github.com/Dee699/CMPG323-Overview--32593392
+     [Link to Repository](https://github.com/Dee699/CMPG323-Overview--32593392)
      
 
 **Project 2: API Basics & Security-32593392**
 
     This repository will focus on building a .NET Web API that connects to a SQL Server database, with full CRUD functionality for telemetry data.
     
-     Link: [Link to Repository]https://github.com/Dee699/CMPG323-PROJECT-2-32593392
+     Link: https://github.com/Dee699/CMPG323-PROJECT-2-32593392
      
      
 **Project 3: Architecture & Design Patterns-32593392**
@@ -140,5 +140,4 @@ In this example, the `.gitignore` file is configured to exclude:
 - **System-specific files**: Keeps unnecessary OS-generated files from being committed.
 
 By carefully configuring the `.gitignore` file, i can ensure that my Git repository remains focused and efficient, enabling better collaboration and management of my codebase.
-
 
