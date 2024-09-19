@@ -4,13 +4,12 @@
    - Repository: [CMPG 323 Project 1 - Agile Scrum][(https://github.com/Dee699/CMPG323-Overview--32593392)]
 
 2. **Project 2: Source Control**
-   - Repository: [CMPG 323 Project 2 - Source Control](link_to_repository_2)
-
+   - Repository: https://github.com/Dee699/CMPG323-PROJECT-2-32593392
 3. **Project 3: Application Programming Interfaces (APIs)**
-   - Repository: [CMPG 323 Project 3 - APIs](link_to_repository_3)
+   - Repository: https://github.com/Dee699/CMPG-323-Project-3--32593392
 
 4. **Project 4: Design & Architecture Patterns**
-   - Repository: [CMPG 323 Project 4 - Design Patterns](link_to_repository_4)
+   - Repository: https://github.com/Dee699/CMPG-323-Project-4---32593392
 
 5. **Project 5: Data Visualization & Reporting**
    - Repository: [CMPG 323 Project 5 - Data Visualization](link_to_repository_5)
