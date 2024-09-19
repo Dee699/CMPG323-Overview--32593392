@@ -11,7 +11,7 @@
 
     This repository will focus on building a .NET Web API that connects to a SQL Server database, with full CRUD functionality for telemetry data.
     
-     LINK: https://github.com/Dee699/CMPG323-PROJECT-2-32593392
+     LINK: [https://github.com/Dee699/CMPG323-PROJECT-2-32593392]
      
      
 **Project 3: Architecture & Design Patterns-32593392**
