@@ -5,35 +5,36 @@
 
 This repository will contain the overall project structure and initial setup for the CMPG 323 module.
 
-  LINK: https://github.com/Dee699/CMPG323-Overview--32593392
+  *Link*: https://github.com/Dee699/CMPG323-Overview--32593392
 
 
 **Project 2: API Basics and Security - 32593392**
 
 This repository will focus on building a .NET Web API that connects to a SQL Server database, with full CRUD functionality for telemetry data.
 
-   LINK: https://github.com/Dee699/CMPG323-PROJECT-2-32593392
+   *Link*: https://github.com/Dee699/CMPG323-PROJECT-2-32593392
 
 
 **Project 3: Architecture and Design Patterns - 32593392**
 
 This repository will contain the UiPath RPA automation for the User Acceptance Testing (UAT) process, including automation scripts and test results.
 
-   LINK: https://github.com/Dee699/CMPG-323-Project-3--32593392
+   *Link*: https://github.com/Dee699/CMPG-323-Project-3--32593392
 
 
 **Project 4: Testing and Automated Testing - 32593392**
 
 This repository will involve data visualization and reporting tasks, along with SQL queries for the in-depth analysis of the Airbnb dataset.
 
-   LINK: https://github.com/Dee699/CMPG-323-Project-4---32593392
+   *Link*: https://github.com/Dee699/CMPG-323-Project-4---32593392
 
 
 **Project 5: Data Analytics and Visualisation-32593392**
 
   This repository will serve as the final project portfolio, consolidating all tasks and showcasing the complete solution for CMPG 323, including documentation and reflections.
 
-      LINK:
+   *Link*:
+
      
 ### Documentation
 
