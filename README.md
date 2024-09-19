@@ -36,21 +36,30 @@
      
 ### Documentation
 
-####Branching Strategy
+### **Branching Strategy**
 
-Each project repository will follow a standardized branching strategy to ensure consistency and ease of collaboration. The branching strategy is as follows:
+For this project, I will use a **single branch strategy** where all work is conducted on the `main` branch. The workflow will be streamlined to ensure stability while minimizing complexity.
 
-1. Main Branch: This is the stable branch where all completed and tested code will be merged. This branch should always be deployable.
-2. Develop Branch: This branch is used for integration and testing. All feature branches will be merged into this branch.
-3. Feature Branches: Each new feature or task will have its own branch created from the develop branch. The naming convention for feature branches will be `feature/<feature-name>`.
-4. Hotfix Branches: For urgent fixes that need to be addressed immediately, a branch will be created from the main branch. The naming convention for hotfix branches will be `hotfix/<fix-name>`.
+### **Main Branch (`main`)**
 
-##### Branching Workflow
-1. Create a feature branch from develop for a new feature or task.
-2. Work on the feature branch and commit changes.
-3. Open a pull request (PR) to merge the feature branch into the develop branch.
-4. Once reviewed and approved, merge the PR.
-5. Periodically, merge the develop branch into the main branch after testing. 
+- The `main` branch will be the **sole branch** used for development and deployment.
+ 
+- All code changes, feature additions, bug fixes, and updates will be made directly on the `main` branch.
+
+- Each change will be thoroughly tested before being committed to ensure the stability of the branch.
+  
+### **Workflow**
+
+- Instead of managing multiple branches, I will focus on keeping the `main` branch **stable** and **up-to-date**.
+
+- Features will be developed directly on the `main` branch with regular commits.
+
+- Before committing any changes, I will run **unit tests** and **integration tests** to verify that the new code does not introduce bugs or instability.
+
+ -Code reviews will be performed before pushing changes to the `main` branch.
+
+This streamlined strategy simplifies the development process while maintaining the stability of the codebase. It also reduces the overhead of managing multiple branches.
+
 
 ###### Use of .gitignore
 
