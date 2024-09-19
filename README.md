@@ -1,6 +1,7 @@
 # CMPG323-Overview-32593392
 ## CMPG 323 Project Repositories and their Links
 **Project 1: Agile (Scrum) Implementation-32593392**
+
    This repository will contain the overall project structure and initial setup for the CMPG 323 module.
      
      LINK: https://github.com/Dee699/CMPG323-Overview--32593392)]
