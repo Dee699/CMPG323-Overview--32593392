@@ -38,11 +38,11 @@
 
 ### **Branching Strategy**
 
-For this project, I will use a **single branch strategy** where all work is conducted on the `main` branch. The workflow will be streamlined to ensure stability while minimizing complexity.
+For all projects, I will use a **single branch strategy** where all work is conducted on the `main` branch. The workflow will be streamlined to ensure stability while minimizing complexity.
 
 ### **Main Branch (`main`)**
 
-- The `main` branch will be the **sole branch** used for development and deployment.
+- The `main` branch will be the **sole branch** used for development and deployment of my work.
  
 - All code changes, feature additions, bug fixes, and updates will be made directly on the `main` branch.
 
