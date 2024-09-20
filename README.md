@@ -39,7 +39,7 @@ This repository will involve data visualization and reporting tasks, along with 
 
      
 ### Documentation:
-
+  
 ### **Branching Strategy**
 
 For all projects, I will use a **single branch strategy** where all work is conducted on the main branch. The workflow will be streamlined to ensure stability while minimizing complexity.
