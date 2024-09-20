@@ -39,8 +39,17 @@ This repository will involve data visualization and reporting tasks, along with 
 
      
 ### Documentation:
-  
+
+ Below is a link to my documentation:
+ 
+  *Link*: https://github.com/Dee699/CMPG323-Overview--32593392/blob/main/Lean_Technical_Documentation_Template.docx  
 ### **Branching Strategy**
+
+### Burndown Chart
+
+   Below is a link to my Burndown Chart:
+   
+  https://github.com/Dee699/CMPG323-Overview--32593392/blob/991f4ac180f4accec550aefe08946b7159e37daa/BurndownChart_32593392.xlsx
 
 For all projects, I will use a **single branch strategy** where all work is conducted on the main branch. The workflow will be streamlined to ensure stability while minimizing complexity.
 
