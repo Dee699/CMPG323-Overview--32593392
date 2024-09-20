@@ -1,6 +1,6 @@
 ## CMPG323-Overview-32593392
 
-*This project is part of the CMPG 323 module, focusing on the development of a Telemetry Data Management System using Agile methodologies, specifically Scrum and Kanban. The system aims to manage telemetry data for various automation projects, enabling effective tracking of time and cost savings. By leveraging a RESTful API built with .NET and hosted on Azure, the project will facilitate collaboration, flexibility, and responsiveness to changing requirements.
+*This project is about the development of a Telemetry Data Management System using Agile methodologies, specifically Scrum and Kanban. The overall system aims to manage telemetry data for various automation projects, enabling effective tracking of time and cost savings. By leveraging a RESTful API built with .NET and hosted on Azure, the project will facilitate collaboration, flexibility, and responsiveness to changing requirements.
 ## CMPG 323 Project Repositories and their Links*
 
 **Project 1: Agile and Scrum implementation - 32593392**
