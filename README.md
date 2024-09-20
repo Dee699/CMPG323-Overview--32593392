@@ -140,17 +140,17 @@ Thumbs.db
 In this example, the .gitignore file is configured to exclude:
 
 - **Sensitive information**: Prevents exposure of credentials and sensitive data.
-- 
+
 - **Build artifacts**: Keeps compiled files and build directories out of version control.
-- 
+
 - **Log files**: Excludes log data that is not necessary for collaboration.
-- 
+
 - **Cache and temporary files**: Prevents tracking of temporary files created during development.
-- 
+  
 - **Dependency directories**: Excludes third-party libraries that can be restored easily.
-- 
+  
 - **IDE-specific files**: Prevents local settings from affecting the repository.
-- 
+  
 - **System-specific files**: Keeps unnecessary OS-generated files from being committed.
 
 By carefully configuring the .gitignore file, i can ensure that my Git repository remains focused and efficient, enabling better collaboration and management of my codebase.
