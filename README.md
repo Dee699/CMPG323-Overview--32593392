@@ -40,7 +40,9 @@ This repository will involve data visualization and reporting tasks, along with 
      
 ### Documentation:
 
- Below is a link to of my documentation:
+ Below is a link and a file of my documentation:
+ 
+   Lean_Technical_Documentation_Template.docx
  
   *Link*: https://github.com/Dee699/CMPG323-Overview--32593392/blob/main/Lean_Technical_Documentation_Template.docx  
 
