@@ -40,17 +40,13 @@ This repository will involve data visualization and reporting tasks, along with 
      
 ### Documentation:
 
- Below is a link and a file of my documentation:
- 
-   Lean_Technical_Documentation_Template.docx
+ Below is a link to my documentation:
  
   *Link*: https://github.com/Dee699/CMPG323-Overview--32593392/blob/main/Lean_Technical_Documentation_Template.docx  
 
 ### Burndown Chart
 
-   Below is a link and a file of my Burndown Chart:
-   
-   BurndownChart_32593392.xlsx
+   Below is a link to my Burndown Chart:
   
    https://github.com/Dee699/CMPG323-Overview--32593392/blob/991f4ac180f4accec550aefe08946b7159e37daa/BurndownChart_32593392.xlsx
 
